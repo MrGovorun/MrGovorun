@@ -1,12 +1,11 @@
 # Hello!
 
 My name is __Alexey Govorun__.  
-I worked in Sibintek 8 years. There I developed reports in SAP Business Objects 3.1 and did administrative tasks in CA Service Desk 12.7. One day I clearly understood, that this environment is extremly old. 
-So I throw it and begun learn Data Science and code Python. Previous work get me understanding of reporting systems and SQL,so
-I try combaine my new and old knowledge for solving different task.
+I was working in Sibintek for 8 years. I was developing reports in SAP Business Objects 3.1 and making administrative tasks in CA Service Desk 12.7. But one day I clearly understood that these softwares are extremely old. So I throw it and begun to learn Data Science and code Python. 
+My previous work gave me understanding of reporting systems and SQL, so now I try to turn my old knowledge into new for solving different interesting tasks.
 
-I have not a lot of pet projects. Some of them strange, some solve only my ruitine tasks. In my github I public code, that may be helpful for other people.
-Hope you enjoy it
+I haven't got a lot of pet projects. Some of them are strange and some of them just solve my ruitine tasks. Here I public my code that can be helpful for other people. 
+Hope you enjoy it!
   
 ### Some competencies:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
